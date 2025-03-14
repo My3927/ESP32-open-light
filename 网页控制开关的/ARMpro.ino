@@ -6,8 +6,8 @@ WebServer server(80);
 
  
 
-const char* ssid = "zjfyyx";
-const char* password = "wenwolaopo";
+const char* ssid = "你家wifi名称";
+const char* password = "你家wifi密码";
 const int LED=5;
 
 int freq = 50;      // 频率(20ms周期)
